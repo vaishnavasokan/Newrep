@@ -1,3 +1,3 @@
 <?php
-    header('Location:ml.html');
+    header('Location:test.html');
 ?>
